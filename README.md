@@ -4,4 +4,7 @@ Calculator functions include:
 - sqrt, power, exp, log
 - pi, e
 
+This calculator can calculate more than one expression.
+e.g cos0.9 * 2
+
 git pull from repo and run code
